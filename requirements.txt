@@ -1,0 +1,53 @@
+# ==============================
+# LLM / Mistral
+# ==============================
+langchain-mistralai
+
+# ==============================
+# LangChain Core + Agents
+# ==============================
+langchain
+langchain-core
+langchain-community
+
+# ==============================
+# Agent / Graph Orchestration
+# ==============================
+langgraph
+
+# ==============================
+# Tavily Web Search
+# ==============================
+tavily-python
+
+# ==============================
+# Web Scraping - BeautifulSoup
+# ==============================
+beautifulsoup4
+requests
+
+# ==============================
+# Environment Variables
+# ==============================
+python-dotenv
+
+# ==============================
+# Data Validation / Schemas
+# ==============================
+pydantic
+
+# ==============================
+# HTTP / Async Support
+# ==============================
+httpx
+aiohttp
+
+# ==============================
+# Frontend / API
+# ==============================
+streamlit
+
+# ==============================
+# Utilities
+# ==============================
+typing-extensions
